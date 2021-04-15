@@ -2,8 +2,6 @@
   <component name="MaterialThemeConfig">
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="tabFontSizeEnabled" value="true" />
-    <option name="tabFontSize" value="18" />
     <option name="accentColor" value="19cde9" />
     <option name="userId" value="-8ddef88:178d5efed00:-8000" />
     <option name="version" value="4.5.1" />
